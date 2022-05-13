@@ -4,8 +4,8 @@ Welcome to my profile.
 ![Profile views](https://gpvc.arturio.dev/Akshatchaube01)
 
 
-I am Akshat Chaube.
-Technology enthusiast || into web development
+I am Akshat Chaube ||
+Technology enthusiast 
 
 - 🚀 Some Tools I Use:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
