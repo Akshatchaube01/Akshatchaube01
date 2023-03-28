@@ -1,4 +1,4 @@
-<a > <img align="center" src="greetings.gif"/ ></a>
+![Alt Text](greetings.gif)
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Akshat Chaube</h1>
 <h2 align="center">A Learner from UP, India <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Animated-Flag-India.gif" width="40px" height="30px"> </h2>
