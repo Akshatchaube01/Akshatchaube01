@@ -60,5 +60,4 @@
 
 
 <p align="center">
-<img src="banner_fin.jpg" height=250px></p>
-<p>
+<img align="centre" width=“400” height="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
