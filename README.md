@@ -62,4 +62,4 @@
 <p align="center">
 <img align="centre" width=“400” height="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
 <h3 align="centre">My Contributions<h3> 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Akshatchaube01/Akshatchaube01/blob/output/github-contribution-grid-snake.gif)
