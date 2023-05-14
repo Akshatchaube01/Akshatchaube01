@@ -61,3 +61,5 @@
 
 <p align="center">
 <img align="centre" width=“400” height="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt=“coding” />
+ <h1 align="center">CONTRIBUTION GRAPH</h1>
+<img src="https://github.com/Akshatchaube01/Akshatchaube01/blob/output/github-contribution-grid-snake.svg" alt="snake-graph" style="display: block;width: 150%;"/>
