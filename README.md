@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ I love programming<br>📚 I am currently learning React.js<br>🎯Reach me at : Akshatchaube33@gmail.com</p>
+<p align="left">✨ I love programming<br>📚 I am currently learning React.js<br>🎯 Reach me at : Akshatchaube33@gmail.com</p>
 
 ###
 
